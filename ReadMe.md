@@ -79,5 +79,5 @@ make clean
 
 ## About
 
-> Author : [Tristan.G](https://github.com/Dr4kiel)
+> Author : [Drakiel](https://github.com/Dr4kiel)
 > Group : [IUT Laval](https://iut-laval.univ-lemans.fr/fr/index.html)
